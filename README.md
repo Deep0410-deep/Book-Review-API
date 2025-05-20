@@ -41,8 +41,6 @@ book review api/
 ├─ README.md
 ├─ server.js
 
-# API Endpoints
-
 # Authentication:
 | Method | Endpoint  | Description       |
 |--------|-----------|-------------------|
